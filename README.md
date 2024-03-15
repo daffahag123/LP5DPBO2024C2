@@ -33,6 +33,8 @@ Program yang sudah saya buat adalah sebuah aplikasi Java GUI untuk manajemen dat
 7. Jika pengguna mengklik tombol "Delete", akan muncul jendela konfirmasi dengan pesan "Hapus data?". Pengguna akan diberikan opsi untuk memilih "Yes" atau "No". Jika pengguna memilih "Yes", data mahasiswa yang terkait akan dihapus dari tabel. Kemudian menampilkan feedback berisi "Data berhasil dihapus!". Jika pengguna memilih "No", tidak akan dilakukan tindakan apa pun dan jendela konfirmasi akan ditutup.
    
 # Dokumentasi Program
-https://github.com/daffahag123/LP5DPBO2024C2/assets/135239333/03ef065e-49ca-427f-a781-83ded9cc4bb4
+https://github.com/daffahag123/LP5DPBO2024C2/assets/135239333/5846fc7e-7aca-4442-ae9e-cfeda6ced78c
+
+
 
 
