@@ -32,3 +32,4 @@ Program yang sudah saya buat adalah sebuah aplikasi Java GUI untuk manajemen dat
 6. Jika pengguna mengklik tombol "Cancel", semua input di form akan dihapus.
 7. Jika pengguna mengklik tombol "Delete", akan muncul jendela konfirmasi dengan pesan "Hapus data?". Pengguna akan diberikan opsi untuk memilih "Yes" atau "No". Jika pengguna memilih "Yes", data mahasiswa yang terkait akan dihapus dari tabel. Kemudian menampilkan feedback berisi "Data berhasil dihapus!". Jika pengguna memilih "No", tidak akan dilakukan tindakan apa pun dan jendela konfirmasi akan ditutup.
    
+# Dokumentasi Program
